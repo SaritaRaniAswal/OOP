@@ -1,4 +1,4 @@
-package inheritancePack;
+/*package inheritancePack;
 class Employee {
     private int yearsOfExp;
     public Employee(int yearsOfExp) {
@@ -11,16 +11,16 @@ class Employee {
 }
 
 class Department extends Employee{
-    private String deptName;
+    private String deptName;    */
     /* Department constructor*/
     
-    String getDeptName() {
+ /*   String getDeptName() {
         return deptName;
     }
 }
 
 public class InheritanceDemo2 {
-    public static void main(String[] args) {
+    public static void main(String[] args) { */
         /* create Department object and check the value*/
-    }
-}
+/*    }
+}*/
